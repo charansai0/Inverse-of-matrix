@@ -33,8 +33,8 @@ Print the value of the inverse
 
 ## PROGRAM:
 ~~~
-#Developed By:Manoj Guna Sundar Tella
-#Ref No:21003796
+#Developed By: v.charan sai
+#Ref No:21003158
 import numpy as np
 l1,l2 = [],[]
 r,c= int(input()),int(input())
