@@ -50,6 +50,7 @@ inverse = np.linalg.inv(valuel)
 print (Inverse)
 ~~~
 ## OUTPUT:
-![output]()
+![output](https://github.com/charansai0/Inverse-of-matrix/blob/main/Screenshot%20(237).png?raw=true)
 
 ## RESULT:
+Therefore the program is successfully executed to find the inverse of nested arrays using numpy module.
